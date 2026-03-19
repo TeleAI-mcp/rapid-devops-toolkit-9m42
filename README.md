@@ -1,2 +1,3 @@
-# rapid-devops-toolkit-9m42
-Automated issue comment bot repository
+# Rapid Devops Toolkit 9M42
+
+Automated issue comment bot repository.
